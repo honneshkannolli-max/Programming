@@ -1,4 +1,4 @@
-g#include <stdio.h>
+#include <stdio.h>
 int main(){
     int M1,M2,M3,total,average;
     char G;
